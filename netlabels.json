@@ -857,6 +857,22 @@
       "label_name": "Colectivo Casa Amarela",
       "activity_state": "active"
     },
+ {
+      "urls": {
+        "rss": "https://archive.org/services/collection-rss.php?collection=le-colibri-necrophile",
+        "bandcamp": "https://yoshiwaku.bandcamp.com/",
+        "twitter": "https://twitter.com/Colibrinecrofil",
+        "internet_archive": "https://archive.org/details/le-colibri-necrophile",
+        "ello": "https://ello.co/ed_end",
+        "facebook": "https://www.facebook.com/ed.end.5/",
+        "soundcloud": "https://soundcloud.com/invisibleillusion",
+        "homepage": "http://www.horsnorme.org/"
+      },
+      "genres": ["Experimental", "Psychedelic", "Industrial", "Noise", "Electronics", "Ambient"],
+      "countries": ["France"],
+      "label_name": "Colibri Necrophile",
+      "activity_state": "active"
+    },
     {
       "urls": {
         "rss": "http://www.comarecordz.com/feeds/posts/default?alt=rss",
